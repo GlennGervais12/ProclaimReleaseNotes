@@ -4,6 +4,9 @@ title: Proclaim 1.24 Release Notes
 
 # Proclaim Version 1.24
 
+### 1.24.0.0509 (Mac only) Friday, August 29, 2014
+* No actual release, just updating the markdown
+
 ### 1.24.0.0507 (Mac only) Wednesday, August 27, 2014
 * Updated Mac installer release notes link.
 
